@@ -1,0 +1,20 @@
+export const list=[
+    {
+        id:1,
+        name:'Priya',
+        gender:'F',
+        contacted:'true'
+    },
+    {
+        id:2,
+        name:'Riya',
+        gender:'F',
+        contacted:'true'
+    },
+    {
+        id:3,
+        name:'Ritz',
+        gender:'M',
+        contacted:'false'
+    },
+]
